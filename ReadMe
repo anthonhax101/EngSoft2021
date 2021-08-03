@@ -1,0 +1,20 @@
+[ Objeto
+      variável ]
+    
+    
+    
+Item:
+    código (int)
+    descrição (str)
+    localização (str)
+    status (bool) - disponível || indisponível
+    quantidade disponível (int)
+    quantidade indisponível (int)
+
+    dados de manutenção?? dados de alta demanda??
+Usuário:
+    código (int)
+    localização (str)    
+    empréstimos (bool)    
+    multa (bool)
+    multa (float) (se !multa, multa == 0.0)
