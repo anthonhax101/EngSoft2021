@@ -1,8 +1,3 @@
-[ Objeto
-      variável ]
-    
-    
-    
 Item:
     código (int)
     descrição (str)
@@ -11,14 +6,13 @@ Item:
     quantidade disponível (int)
     quantidade indisponível (int)
 
+
+
     dados de manutenção?? dados de alta demanda??
-Usuário:
-    código (int)
-    localização (str)    
-    empréstimos (bool)    
-    multa (bool)
-    multa (float) (se !multa, multa == 0.0)
-    
+
+
+
+Usuários: Em Empresa_S bin
 Tipos de usuário e permissões:
       UNIDADE: acesso total ao sistema, pode cadastrar, editar e visualizar materiais; pode colocar materiais em situação de manutenção; 
       pode cadastrar, editar e visualizar usuários; 
