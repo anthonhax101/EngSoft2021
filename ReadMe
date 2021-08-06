@@ -1,4 +1,4 @@
-Item: Em Empresa_S/src/materiais
+Item: Em Empresta_S/src/materiais
     código (int)
     descrição (str)
     localização (str)
@@ -8,7 +8,7 @@ Item: Em Empresa_S/src/materiais
 
 
 
-Usuários: Em Empresa_S/src/pessoas
+Usuários: Em Empresta_S/src/pessoas
 Tipos de usuário e permissões:
       UNIDADE: acesso total ao sistema, pode cadastrar, editar e visualizar materiais; pode colocar materiais em situação de manutenção; 
       pode cadastrar, editar e visualizar usuários; 
