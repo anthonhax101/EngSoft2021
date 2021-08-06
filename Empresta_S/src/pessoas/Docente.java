@@ -1,7 +1,7 @@
 package pessoas;
 
 public class Docente {
-  private int codigo;
+  	private int codigo;
 	public char localizacao; //default: unidade
 	public boolean emprestimos_pendentes;
 	private boolean multa_pendente;
