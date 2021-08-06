@@ -12,7 +12,7 @@ Item:
 
 
 
-Usuários: Em Empresa_S bin
+Usuários: Em Empresa_S/src
 Tipos de usuário e permissões:
       UNIDADE: acesso total ao sistema, pode cadastrar, editar e visualizar materiais; pode colocar materiais em situação de manutenção; 
       pode cadastrar, editar e visualizar usuários; 
