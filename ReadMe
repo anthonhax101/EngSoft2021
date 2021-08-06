@@ -8,10 +8,6 @@ Item: Em Empresa_S/src/materiais
 
 
 
-    dados de manutenção?? dados de alta demanda??
-
-
-
 Usuários: Em Empresa_S/src/pessoas
 Tipos de usuário e permissões:
       UNIDADE: acesso total ao sistema, pode cadastrar, editar e visualizar materiais; pode colocar materiais em situação de manutenção; 
