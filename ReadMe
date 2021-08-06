@@ -18,3 +18,10 @@ Usuário:
     empréstimos (bool)    
     multa (bool)
     multa (float) (se !multa, multa == 0.0)
+    
+Tipos de usuário e permissões:
+      UNIDADE: acesso total ao sistema, pode cadastrar, editar e visualizar materiais; pode colocar materiais em situação de manutenção; 
+      pode cadastrar, editar e visualizar usuários; 
+      COLABORADOR: Pode visualizar materiais; pode reservar materiais; pode 
+      PROFESSOR: Pode visualizar materiais; pode reservar materiais;
+      ALUNO: Pode visualizar materiais; pode reservar materiais;
