@@ -18,3 +18,5 @@ Usuário:
     empréstimos (bool)    
     multa (bool)
     multa (float) (se !multa, multa == 0.0)
+
+testando pull request
