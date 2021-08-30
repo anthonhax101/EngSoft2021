@@ -15,3 +15,8 @@ Tipos de usuário e permissões:
       COLABORADOR: Pode visualizar materiais; pode reservar materiais; pode 
       PROFESSOR: Pode visualizar materiais; pode reservar materiais;
       ALUNO: Pode visualizar materiais; pode reservar materiais;
+      
+templates/ferramentas:
+    Flutter
+        Login Kit - https://code.market/product/flutter-login-kit/
+        Tamplates - https://github.com/Solido/awesome-flutter#templates
